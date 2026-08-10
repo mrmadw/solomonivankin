@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Solomon Ivankin
 
-I'm a **full-stack developer** currently working at Sonoma Adventist College in East New Britain, PNG. I work primarily with **React** on the frontend and **Django / Django REST Framework** on the backend. My current project is an online web store that connects heavy machine buyers & sellers in PNG.
+I'm a **full-stack developer** currently working at Sonoma Adventist College in East New Britain, PNG. I work primarily with **Javascript** on the frontend and **Python** on the backend. My current project is an online web store that connects heavy machine buyers & sellers in PNG.
 
 ## 🌱 About Me
 
